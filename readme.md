@@ -1,3 +1,3 @@
-## Welcome to Git!
-- This is a readme from `dev-bhinda`
+## Hello Yoo, Welcome to my Git guide!
+- This is a readme from `dev-deep`
 - I am adding feature branch `feature-branch`
